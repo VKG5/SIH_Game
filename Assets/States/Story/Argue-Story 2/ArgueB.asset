@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54351a562e6c7ea47bd31ac67a0ec0d0, type: 3}
+  m_Name: ArgueB
+  m_EditorClassIdentifier: 
+  StoryText: 'One day Joanne talks to her husband about her interest in writing and
+    asks him for permission to continue it as a profession. As her husband what would
+    you do?
+
+
+    1. Tell her that there is no need for her to work as he is already earning good
+    money.
+
+
+    2. Tell her to go forward with it.'
+  nextStates:
+  - {fileID: 11400000, guid: 039c9c56e57bc8b45a92b968b59d34ba, type: 2}
+  - {fileID: 11400000, guid: 3409d83487307d1448118a8ed691eef0, type: 2}

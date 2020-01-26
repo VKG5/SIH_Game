@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54351a562e6c7ea47bd31ac67a0ec0d0, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  StoryText: 'Joanne has a best friend named Sean. She makes him read one of her stories.
+    As her friend what would you do?
+
+
+    1. Tell her that you dislike the story and you should drop the idea.
+
+
+    2. Tell her that career in writing is very difficult and as a girl you may not
+    have the capacity to withhold.
+
+
+    3. Give her your full support and tell her she can be successful.'
+  nextStates:
+  - {fileID: 11400000, guid: fc4622fdc49564149acf973e35f66f5c, type: 2}
+  - {fileID: 11400000, guid: fc4622fdc49564149acf973e35f66f5c, type: 2}
+  - {fileID: 11400000, guid: fc4622fdc49564149acf973e35f66f5c, type: 2}

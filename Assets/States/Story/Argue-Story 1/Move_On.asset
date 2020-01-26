@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54351a562e6c7ea47bd31ac67a0ec0d0, type: 3}
+  m_Name: Move_On
+  m_EditorClassIdentifier: 
+  StoryText: "Joanne lived with the tag of \"single mother living on welfare benfits.\"
+    As society what would you believe? \n\n1. Agree with this tag and believe she
+    is successful because of the benifits.\n\n2. Believe she is talented but benifits
+    have a major effect.\n\n3. Believe she is talented and deserves her spot."
+  nextStates:
+  - {fileID: 11400000, guid: 0383a58b68a7d304697f0bea26b0223e, type: 2}
+  - {fileID: 11400000, guid: 0383a58b68a7d304697f0bea26b0223e, type: 2}
+  - {fileID: 11400000, guid: 0383a58b68a7d304697f0bea26b0223e, type: 2}

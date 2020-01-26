@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54351a562e6c7ea47bd31ac67a0ec0d0, type: 3}
+  m_Name: Text_Box_2_Cont
+  m_EditorClassIdentifier: 
+  StoryText: 'She completes her story and takes it to a publisher. As her publisher
+    what would you do?
+
+
+    1. Reject her story as women writers are not especially talented.
+
+
+    2. Goes ahead with her story but tells her to change her name so her gender is
+    not revealed.
+
+
+    3. Supports her and goes ahead with her story with her identity intact.'
+  nextStates:
+  - {fileID: 11400000, guid: 4df386626128b304d9c54f7d34e35098, type: 2}
+  - {fileID: 11400000, guid: 84fd59df04790cc468de996f150abdf2, type: 2}
+  - {fileID: 11400000, guid: 84fd59df04790cc468de996f150abdf2, type: 2}

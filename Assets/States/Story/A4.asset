@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54351a562e6c7ea47bd31ac67a0ec0d0, type: 3}
+  m_Name: A4
+  m_EditorClassIdentifier: 
+  StoryText: 'During her college days she fell in love with a boy. While dating him
+    she had a miscarriage. As her boyfriend what would you do?
+
+
+    1. Break up with her.
+
+
+    2. Blame her for the outcome but stay with her.
+
+
+    3. Support and marry her.'
+  nextStates:
+  - {fileID: 11400000, guid: 9d392112ce30dc342a15cd0d4c3e131a, type: 2}
+  - {fileID: 11400000, guid: b633ec95e1f32a44abd961b9a789433c, type: 2}
+  - {fileID: 11400000, guid: b633ec95e1f32a44abd961b9a789433c, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54351a562e6c7ea47bd31ac67a0ec0d0, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  StoryText: 'Joanne wants to pusue writing as a career in the future and goes to
+    her parents to ask about the same. As a parent what would you say to her?
+
+
+    1. "You are too young to decide this and should concentrate on your studies and
+    drop this idea."
+
+
+    2. "It''s good to have hobbies, but this won''t help you to pay bills when you
+    grow older. So you should drop this idea."
+
+
+    3. "Why not! You can become whatever you like to be and you have our full support."'
+  nextStates:
+  - {fileID: 11400000, guid: b1d6f21bc7b466c43a359bc63404e685, type: 2}
+  - {fileID: 11400000, guid: b1d6f21bc7b466c43a359bc63404e685, type: 2}
+  - {fileID: 11400000, guid: b1d6f21bc7b466c43a359bc63404e685, type: 2}
